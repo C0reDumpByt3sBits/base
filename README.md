@@ -1,5 +1,7 @@
-# base
-Foundation of all creation
+# Base
+Foundation of all creation. - DONE.
 
-# step one
-TBD
+# Steps
+- [x] initial gitpod setup
+- [ ] run through gitcoin web BUIDL process
+- [ ] decide on bounties to attempt
